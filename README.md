@@ -2,8 +2,10 @@
 Hey there!👋<br><br>🔭 I’m a software engineer 👨‍💻 driven by curiosity, creativity, and a passion for innovation.<br><br>📌 Currently working on AI-driven image generation using GANs.<br><br>🤝 Open to collab on anything AI, full-stack dev, or cool tech projects!<br><br>🎯 Goal: Bridging the gap between technology and business through strategic innovation.
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/koceila.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karakoceila) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/koceila_kara) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karakoceila) 
+
 
 ## 🚀 Tech Stack
 
@@ -25,6 +27,7 @@ Hey there!👋<br><br>🔭 I’m a software engineer 👨‍💻 driven by curio
 
 ### **Software & UI/UX Design**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Microsoft Project](https://img.shields.io/badge/MS%20Project-%23007ACC.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)    
+
 
 
 ### ✍️ Dev Quote
