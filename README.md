@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!👋<br><br>🔭 I’m a software engineer 👨‍💻 driven by curiosity, creativity, and a passion for innovation.<br><br>📌 Currently working on AI-driven image generation using GANs.<br><br>🤝 Open to collab on anything AI, full-stack dev, or cool tech projects!<br><br>🎯 Goal: Bridging the gap between technology and business through strategic innovation.
+Hey there!👋<br><br>🔭 I’m a software engineer 👨‍💻 driven by curiosity, creativity, and a passion for innovation.<br><br>🤝 Open to collab on anything AI, full-stack dev, or cool tech projects!<br><br>🎯 Goal: Bridging the gap between technology and business through strategic innovation.
 
 
 
